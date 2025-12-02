@@ -1,0 +1,17 @@
+{
+  "name": "boj_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:ISTP-A/boj_boilerplate.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "boilerplate.js",
+  "scripts": {
+    "test": "node runner.js",
+    "new": "node new.js"
+  }
+}
